@@ -1,0 +1,45 @@
+{
+    "modules": [],
+    "properties": {
+        "backendModules": [],
+        "description": "Fixes editing DCE elements on the frontend",
+        "emConf": {
+            "category": "plugin",
+            "custom_category": "",
+            "dependsOn": "typo3 => 8.6.0-8.7.99\n",
+            "disableLocalization": false,
+            "disableVersioning": false,
+            "skipGenerateDocumentationTemplate": false,
+            "sourceLanguage": "en",
+            "state": "alpha",
+            "targetVersion": "8.6.0-8.7.99",
+            "version": "1.0.0"
+        },
+        "extensionKey": "ik_dcefrontendediting",
+        "name": "Additions to frontend editing",
+        "originalExtensionKey": "",
+        "originalVendorName": "",
+        "persons": [
+            {
+                "company": "",
+                "email": "igor@buildsite.me",
+                "name": "Igor Kruglov",
+                "role": "Developer"
+            },
+            {
+                "company": "",
+                "email": "",
+                "name": "Rainer Karnovski",
+                "role": "Product Manager"
+            }
+        ],
+        "plugins": [],
+        "vendorName": "IgorKruglov"
+    },
+    "wires": [],
+    "log": {
+        "last_modified": "2017-11-26 09:38",
+        "extension_builder_version": "8.6.0",
+        "be_user": " (7)"
+    }
+}

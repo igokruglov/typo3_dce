@@ -1,0 +1,1634 @@
+
+Value to search: &lt;p&gt;complex thing&lt;/p&gt;
+Value to replace: complex thing asasa
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an other simp          le thing</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">&lt;p&gt;complex thing&lt;/p&gt;</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an other simp          le thing</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">complex thing asasa</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: complex thing asasa
+Value to replace: complex thing asasa sfsdfsdf
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an other simp          le thing</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">complex thing asasa</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an other simp          le thing</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">complex thing asasa sfsdfsdf</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: complex thing asasa sfsdfsdf
+Value to replace: com    plex thing asasa sfsdfsdf
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an other simp          le thing</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">complex thing asasa sfsdfsdf</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an other simp          le thing</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com    plex thing asasa sfsdfsdf</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: com    plex thing asasa sfsdfsdf
+Value to replace: com plex thi ng asasa sfsdfsdf
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an other simp          le thing</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com    plex thing asasa sfsdfsdf</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an other simp          le thing</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com plex thi ng asasa sfsdfsdf</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: com plex thi ng asasa sfsdfsdf
+Value to replace: com pl                  ex thi ng asasa sfsdfsdf
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an other simp          le thing</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com plex thi ng asasa sfsdfsdf</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an other simp          le thing</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl                  ex thi ng asasa sfsdfsdf</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: com pl                  ex thi ng asasa sfsdfsdf
+Value to replace: com pl ex thisa sfsdfsdf
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an other simp          le thing</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl                  ex thi ng asasa sfsdfsdf</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an other simp          le thing</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa sfsdfsdf</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: an other simp          le thing
+Value to replace: an ot    her simp le thing
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an other simp          le thing</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa sfsdfsdf</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot    her simp le thing</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa sfsdfsdf</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: an ot    her simp le thing
+Value to replace: an ot her simp le thing  hhhh
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot    her simp le thing</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa sfsdfsdf</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp le thing  hhhh</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa sfsdfsdf</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: an ot her simp le thing  hhhh
+Value to replace: an ot her simp le thing hh     hh
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp le thing  hhhh</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa sfsdfsdf</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp le thing hh     hh</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa sfsdfsdf</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: &lt;p&gt;&lt;strong&gt;com pl ex&lt;/strong&gt; thisa sfsdfsdf&lt;/p&gt;
+Value to replace: com pl ex thisa sfsdfsdf   kjhkjh
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp le thing hh     hh</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">&lt;p&gt;&lt;strong&gt;com pl ex&lt;/strong&gt; thisa sfsdfsdf&lt;/p&gt;</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp le thing hh     hh</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa sfsdfsdf   kjhkjh</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: com pl ex thisa sfsdfsdf   kjhkjh
+Value to replace: com pl ex thisa sfjhkjh
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp le thing hh     hh</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa sfsdfsdf   kjhkjh</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp le thing hh     hh</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa sfjhkjh</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 3-1
+Value to replace: 3-1  jkhkjh  vsvsc sdv sdvsd vsdv sdvsd vsdv
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">&lt;p&gt;3-2&lt;/p&gt;</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1  jkhkjh  vsvsc sdv sdvsd vsdv sdvsd vsdv</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">&lt;p&gt;3-2&lt;/p&gt;</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: &lt;p&gt;3-2&lt;/p&gt;
+Value to replace: 3-2  scvsdv cdvc vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1  jkhkjh  vsvsc sdv sdvsd vsdv sdvsd vsdv</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">&lt;p&gt;3-2&lt;/p&gt;</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1  jkhkjh  vsvsc sdv sdvsd vsdv sdvsd vsdv</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2  scvsdv cdvc vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 3-1  jkhkjh  vsvsc sdv sdvsd vsdv sdvsd vsdv
+Value to replace: 3-1 jkhkjh vsvsc sdv sdvsd vsdv           sdvsd vsdv
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1  jkhkjh  vsvsc sdv sdvsd vsdv sdvsd vsdv</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2  scvsdv cdvc vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv           sdvsd vsdv</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2  scvsdv cdvc vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 3-1 jkhkjh vsvsc sdv sdvsd vsdv           sdvsd vsdv
+Value to replace: 3-1 jkhkjh                                   vsvsc sdv sdvsd vsdv sdvsd vsdv
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv           sdvsd vsdv</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2  scvsdv cdvc vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh                                   vsvsc sdv sdvsd vsdv sdvsd vsdv</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2  scvsdv cdvc vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 3-1 jkhkjh                                   vsvsc sdv sdvsd vsdv sdvsd vsdv
+Value to replace: 3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh                                   vsvsc sdv sdvsd vsdv sdvsd vsdv</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2  scvsdv cdvc vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2  scvsdv cdvc vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 3-2  scvsdv cdvc vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v
+Value to replace: 3-2 scvsdv cdvc              fert    vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2  scvsdv cdvc vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvsdv cdvc              fert    vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: com pl ex thisa sfjhkjh
+Value to replace: com pl ex thisa                                   sfjhkjh
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp le thing hh     hh</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa sfjhkjh</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp le thing hh     hh</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa                                   sfjhkjh</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: an ot her simp le thing hh     hh
+Value to replace: an ot her simp      le thing hh hh
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp le thing hh     hh</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa                                   sfjhkjh</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp      le thing hh hh</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa                                   sfjhkjh</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: an ot her simp      le thing hh hh
+Value to replace: an ot her simp le thing hh hhnbmnbmnbmnbmnbmnbnmbm
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp      le thing hh hh</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa                                   sfjhkjh</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp le thing hh hhnbmnbmnbmnbmnbmnbnmbm</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa                                   sfjhkjh</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: an ot her simp le thing hh hhnbmnbmnbmnbmnbmnbnmbm
+Value to replace: an ot her simp
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp le thing hh hhnbmnbmnbmnbmnbmnbnmbm</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa                                   sfjhkjh</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa                                   sfjhkjh</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 3-2 scvsdv cdvc              fert    vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v
+Value to replace: 3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvsdv cdvc              fert    vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v
+Value to replace: 3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321  321 321 d v
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vsd v</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321  321 321 d v</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: com pl ex thisa                                   sfjhkjh
+Value to replace: com pl ex thisa sfjhkjhasdasd
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa                                   sfjhkjh</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa sfjhkjhasdasd</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: com pl ex thisa sfjhkjhasdasd
+Value to replace: com pl ex thisa sfjhkjhaasdasdasd
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa sfjhkjhasdasd</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">an ot her simp</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">com pl ex thisa sfjhkjhaasdasdasd</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321  321 321 d v
+Value to replace: 3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd 123321 
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321  321 321 d v</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd 123321 </value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd 123321 
+Value to replace: 3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd 123321 </value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321
+Value to replace: 3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321
+Value to replace: 3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321
+Value to replace: 3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: &lt;p&gt;test&lt;/p&gt;
+Value to replace: test asdas
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">test</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">&lt;p&gt;test&lt;/p&gt;</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">test</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">test asdas</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 
+Value to replace: rasd
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF"></value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF"></value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 
+Value to replace: asd
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF"></value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF"></value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF"></value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF"></value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF"></value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF"></value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 
+Value to replace: asd
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF"></value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF"></value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF"></value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF"></value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 
+Value to replace: asd
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF"></value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF"></value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF"></value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF"></value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: 3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321
+Value to replace: 3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">3-1 jkhkjh vsvsc sdv sdvsd vsdv sdvsd vsdv ready</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">3-2 scvs test dv cdvc fert vsdv dvsd vsd vsd vsd vsd vsc vsc vd vs 1233321 321 321 d v asdasd ​​​​​​​123321</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: asd
+Value to replace: asd asd
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">asd</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">&lt;p&gt;asd&lt;/p&gt;</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">asd asd</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">&lt;p&gt;asd asd&lt;/p&gt;</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: &lt;p&gt;asd asd&lt;/p&gt;
+Value to replace: asd asdasdasd
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">asd asd</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">&lt;p&gt;asd asd&lt;/p&gt;</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">asd asd</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">asd asdasdasd</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: asd asd
+Value to replace: asd asd asdasdasd
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">asd asd</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">asd asdasdasd</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">asd asd asdasdasd</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">asd asd asdasdasdasdasd</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: asd asd asdasdasd
+Value to replace: asd asd asdasdasd 111
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">asd asd asdasdasd</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">asd asd asdasdasdasdasd</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">asd asd asdasdasd 111</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">asd asd asdasdasd 111asdasd</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: asd asd asdasdasd 111
+Value to replace:  asdasdasd 111
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">asd asd asdasdasd 111</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">asd asd asdasdasd 111asdasd</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF"> asdasdasd 111</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF"> asdasdasd 111asdasd</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search:  asdasdasd 111
+Value to replace: asdasdasd 11  1
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF"> asdasdasd 111</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF"> asdasdasd 111asdasd</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">asdasdasd 11  1</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">asdasdasd 11  1asdasd</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: first 
+Value to replace: first
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">first </value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se               c   ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">first</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se               c   ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: first
+Value to replace: fir    st
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">first</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se               c   ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">fir    st</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se               c   ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: fir    st
+Value to replace: fir st asdfsdfa
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">fir    st</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se               c   ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">fir st asdfsdfa</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se               c   ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Value to search: se               c   ond
+Value to replace: se     jhjgjh          c   ond
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">fir st asdfsdfa</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se               c   ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">fir st asdfsdfa</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se     jhjgjh          c   ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: 
+Build plexform: 
+Value to search: fir st asdfsdfa
+Value to replace: fir st asdfsdfa
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">fir st asdfsdfa</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se     jhjgjh          c   ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">fir st asdfsdfa</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se     jhjgjh          c   ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: 
+Value to search: fir st asdfsdfa
+Value to replace: fir st asdfsdfa
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">fir st asdfsdfa</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se     jhjgjh          c   ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">fir st asdfsdfa</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se     jhjgjh          c   ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: 
+Value to search: se     jhjgjh          c   ond
+Value to replace: se jhjgjh c ond
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">fir st asdfsdfa</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se     jhjgjh          c   ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">fir st asdfsdfa</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se jhjgjh c ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: 
+Value to search: fir st asdfsdfa
+Value to replace: fir st asdfsdfa
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">fir st asdfsdfa</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se jhjgjh c ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">fir st asdfsdfa</value>
+                </field>
+                <field index="settings.fe2">
+                    <value index="vDEF">se jhjgjh c ond</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: 
+Build plexform: 
+Value to search: hren
+Value to replace: Element1: lkjlk
+XML to search: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">hren</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
+Build plexform: <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sheet.tabGeneral">
+            <language index="lDEF">
+                <field index="settings.fe1">
+                    <value index="vDEF">Element1: lkjlk</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
